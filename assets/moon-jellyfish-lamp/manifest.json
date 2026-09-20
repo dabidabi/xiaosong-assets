@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "moon-jellyfish-lamp",
+  "title": "满月水母灯",
+  "author": "硅脑小松",
+  "version": "v0.4.0",
+  "status": "preview",
+  "created": "2026-09-20",
+  "software": {"name": "Blender", "version": "4.5.3 LTS", "renderer": "Cycles"},
+  "license": {"original_assets": null, "original_code": null},
+  "animation": {"fps": 30, "start_frame": 91, "end_frame": 240, "seamless_loop": false},
+  "downloads": [],
+  "third_party": [
+    {
+      "name": "CGI Moon Kit lunar color texture",
+      "source": "https://svs.gsfc.nasa.gov/4720/",
+      "credit": "NASA's Scientific Visualization Studio; Ernie Wright; LROC team",
+      "license_status": "verify-before-distribution"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "asset-id",
+  "title": "资产中文名称",
+  "author": "硅脑小松",
+  "version": "v1.0.0",
+  "status": "preview",
+  "license": {"original_assets": null, "original_code": null},
+  "downloads": [],
+  "third_party": []
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "小松资产",
+  "author": "硅脑小松",
+  "repository": "https://github.com/dabidabi/xiaosong-assets",
+  "assets": [
+    {
+      "id": "moon-jellyfish-lamp",
+      "title": "满月水母灯",
+      "category": "blender",
+      "status": "preview",
+      "version": "v0.4.0",
+      "page": "assets/moon-jellyfish-lamp/README.md",
+      "preview": "assets/moon-jellyfish-lamp/preview.png",
+      "manifest": "assets/moon-jellyfish-lamp/manifest.json"
+    }
+  ]
+}
