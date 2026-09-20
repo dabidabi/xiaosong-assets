@@ -7,7 +7,7 @@
   "status": "preview",
   "created": "2026-09-20",
   "software": {"name": "Blender", "version": "4.5.3 LTS", "renderer": "Cycles"},
-  "license": {"original_assets": null, "original_code": null},
+  "license": {"original_assets": "CC-BY-4.0", "original_code": "MIT"},
   "animation": {"fps": 30, "start_frame": 91, "end_frame": 240, "seamless_loop": false},
   "downloads": [],
   "third_party": [
